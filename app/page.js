@@ -1,3 +1,4 @@
+import AdoptionGrid from './AdoptionGrid'
 import HeroSection from './HeroSection'
 import Navbar from './Navbar'
 
@@ -6,6 +7,7 @@ export default function Home () {
     <>
       <Navbar />
       <HeroSection />
+      <AdoptionGrid />
     </>
   )
 }
