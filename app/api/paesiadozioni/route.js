@@ -1,13 +1,16 @@
 const lista = [
   {
-    nome: 'Elton John'
+    paese: 'Italia',
+    anno: '2019',
   },
   {
-    nome: 'George Michael'
+    paese: 'Germania',
+    anno: '2012',
   },
   {
-    nome: 'Freddie Mercury'
-  }
+    paese: 'Francia',
+    anno: '2013',
+  },
 ]
 
 export async function GET(request) {
