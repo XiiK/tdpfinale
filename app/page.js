@@ -1,7 +1,11 @@
-import Image from 'next/image'
+import HeroSection from './HeroSection'
+import Navbar from './Navbar'
 
-export default function Home() {
+export default function Home () {
   return (
-    <div>Viva i gay</div>
+    <>
+      <Navbar />
+      <HeroSection />
+    </>
   )
 }
