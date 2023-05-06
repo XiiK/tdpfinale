@@ -1,0 +1,270 @@
+{
+    "personaggi": [
+        {
+            "nome": "Saara Aalto",
+            "dataNascita": "02-05-1987",
+            "nazione": "Finlandia",
+            "url": "https://it.wikipedia.org/wiki/Saara_Aalto",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Giordana Angi",
+            "dataNascita": "12-01-1994",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Giordana_Angi",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Jonathan Bailey",
+            "dataNascita": "25-04-1988",
+            "nazione": "Regno Unito",
+            "url": "https://it.wikipedia.org/wiki/Jonathan_Bailey",
+            "categoria": "Attore"
+        },
+        {
+            "nome": "Dario Bellezza",
+            "dataNascita": "05-09-1944",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Dario_Bellezza",
+            "categoria": "Scrittore"
+        },
+        {
+            "nome": "Vanessa Lee Carlton",
+            "dataNascita": "16-08-1980",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Vanessa_Carlton",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Eduardo Casanova",
+            "dataNascita": "24-03-1991",
+            "nazione": "Spagna",
+            "url": "https://it.wikipedia.org/wiki/Eduardo_Casanova",
+            "categoria": "Attore"
+        },
+        {
+            "nome": "Kelvin Coe",
+            "dataNascita": "118-09-1946",
+            "nazione": "Australia",
+            "url": "https://it.wikipedia.org/wiki/Kelvin_Coe",
+            "categoria": "Danzatore"
+        },
+        {
+            "nome": "Tim Cook",
+            "dataNascita": "01-11-1960",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Tim_Cook",
+            "categoria": "Amministratore delegato"
+        },
+        {
+            "nome": "Dennis Del Valle",
+            "dataNascita": "27-01-1989",
+            "nazione": "Portorico",
+            "url": "https://it.wikipedia.org/wiki/Dennis_Del_Valle",
+            "categoria": "Pallavolista"
+        },
+        {
+            "nome": "Bertrand Delanoe",
+            "dataNascita": "30-05-1950",
+            "nazione": "Francia",
+            "url": "https://it.wikipedia.org/wiki/Bertrand_Delano%C3%AB",
+            "categoria": "Politico"
+        },
+        {
+            "nome": "Elena Delle Donne",
+            "dataNascita": "05-09-1989",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Elena_Delle_Donne",
+            "categoria": "Cestista"
+        },
+        {
+            "nome": "Lukas Dhont",
+            "dataNascita": "14-05-1991",
+            "nazione": "Belgio",
+            "url": "https://it.wikipedia.org/wiki/Lukas_Dhont",
+            "categoria": "Regista"
+        },
+        {
+            "nome": "Lisa Erba",
+            "dataNascita": "07-09-1993",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Lisa_Erba",
+            "categoria": "Calciatrice"
+        },
+        {
+            "nome": "Oscar Esquivias",
+            "dataNascita": "28-06-1972",
+            "nazione": "Spagna",
+            "url": "https://it.wikipedia.org/wiki/%C3%93scar_Esquivias",
+            "categoria": "Scrittore"
+        },
+        {
+            "nome": "Dominique Fernandez",
+            "dataNascita": "25-08-1929",
+            "nazione": "Francia",
+            "url": "https://it.wikipedia.org/wiki/Dominique_Fernandez",
+            "categoria": "Scrittore"
+        },
+        {
+            "nome": "Tiziano Ferro",
+            "dataNascita": "21-02-1980",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Tiziano_Ferro",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Damon Galgut",
+            "dataNascita": "12-11-1963",
+            "nazione": "Sudafrica",
+            "url": "https://it.wikipedia.org/wiki/Damon_Galgut",
+            "categoria": "Scrittore"
+        },
+        {
+            "nome": "Victor Garber",
+            "dataNascita": "16-03-1949",
+            "nazione": "Canada",
+            "url": "https://it.wikipedia.org/wiki/Victor_Garber",
+            "categoria": "Attore"
+        },
+        {
+            "nome": "Pernille Harder",
+            "dataNascita": "15-11-1992",
+            "nazione": "Danimarca",
+            "url": "https://it.wikipedia.org/wiki/Pernille_Harder_(calciatrice)",
+            "categoria": "Calciatrice"
+        },
+        {
+            "nome": "Thomas Hitzlsperger",
+            "dataNascita": "05-04-1982",
+            "nazione": "Germania",
+            "url": "https://it.wikipedia.org/wiki/Thomas_Hitzlsperger",
+            "categoria": "Dirigente sportivo"
+        },
+        {
+            "nome": "Facundo Imhoff",
+            "dataNascita": "25-01-1989",
+            "nazione": "Argentina",
+            "url": "https://it.wikipedia.org/wiki/Facundo_Imhoff",
+            "categoria": "Pallavolista"
+        },
+        {
+            "nome": "Daniela Iraschko",
+            "dataNascita": "21-11-1983",
+            "nazione": "Austria",
+            "url": "https://it.wikipedia.org/wiki/Daniela_Iraschko",
+            "categoria": "Saltatrice con sci"
+        },
+        {
+            "nome": "Yves Jacques",
+            "dataNascita": "10-05-1956",
+            "nazione": "Canada",
+            "url": "https://it.wikipedia.org/wiki/Yves_Jacques",
+            "categoria": "Attore"
+        },
+        {
+            "nome": "Angelina Jolie",
+            "dataNascita": "04-06-1975",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Angelina_Jolie",
+            "categoria": "Attrice"
+        },
+        {
+            "nome": "Dar'ja Kasatkina",
+            "dataNascita": "07-05-1997",
+            "nazione": "Russia",
+            "url": "https://it.wikipedia.org/wiki/Dar%27ja_Kasatkina",
+            "categoria": "Tennista"
+        },
+        {
+            "nome": "Diana King",
+            "dataNascita": "08-11-1970",
+            "nazione": "Giamaica",
+            "url": "https://it.wikipedia.org/wiki/Diana_King",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Dyanna Lauren",
+            "dataNascita": "18-03-1965",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Dyanna_Lauren",
+            "categoria": "Attrice"
+        },
+        {
+            "nome": "Mark Leduc",
+            "dataNascita": "04-05-1961",
+            "nazione": "Canada",
+            "url": "https://it.wikipedia.org/wiki/Mark_Leduc",
+            "categoria": "Pugile"
+        },
+        {
+            "nome": "Lil Nas X",
+            "dataNascita": "09-04-1999",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Lil_Nas_X",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Demi Lovato",
+            "dataNascita": "20-08-1992",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Demi_Lovato",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Cristiano Malgioglio",
+            "dataNascita": "23-04-1945",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Cristiano_Malgioglio",
+            "categoria": "Personaggio televisivo"
+        },
+        {
+            "nome": "Ian Matos",
+            "dataNascita": "24-04-1989",
+            "nazione": "Brasile",
+            "url": "https://it.wikipedia.org/wiki/Ian_Matos",
+            "categoria": "Tuffatore"
+        },
+        {
+            "nome": "Freddie Mercury",
+            "dataNascita": "05-09-1946",
+            "nazione": "Regno Unito",
+            "url": "https://it.wikipedia.org/wiki/Freddie_Mercury",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Qiao Qiao",
+            "dataNascita": "11-07-1980",
+            "nazione": "Cina",
+            "url": "https://it.wikipedia.org/wiki/Qiao_Qiao",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Bella Thorne",
+            "dataNascita": "08-10-1997",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Bella_Thorne",
+            "categoria": "Attrice"
+        },
+        {
+            "nome": "Xiong Jingnan",
+            "dataNascita": "12-01-1988",
+            "nazione": "Cina",
+            "url": "https://it.wikipedia.org/wiki/Xiong_Jingnan",
+            "categoria": "Lottatrice di arti maziali miste"
+        },
+        {
+            "nome": "Renato Zero",
+            "dataNascita": "30-09-1950",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Renato_Zero",
+            "categoria": "Cantante"
+        },
+        {
+            "nome": "Jake Zyrus",
+            "dataNascita": "10-05-1992",
+            "nazione": "Filippine",
+            "url": "https://it.wikipedia.org/wiki/Jake_Zyrus",
+            "categoria": "Cantante"
+        }
+    ]
+}
