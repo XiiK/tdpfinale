@@ -2,7 +2,7 @@
 import Image from 'next/image'
 
 async function getData () {
-  const res = await fetch('http://localhost:3000/api/paesiadozioni')
+  const res = await fetch('https://tdpomo.vercel.app/api/paesiadozioni')
   return res.json()
 }
 
