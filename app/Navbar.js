@@ -1,10 +1,12 @@
 import React from 'react'
+// import logo
+import logo from '../public/img/logo.png'
 
 function Navbar () {
   return (
     <nav className='flex items-center justify-between flex-wrap bg-gray-100 p-6'>
       <div className='flex items-center flex-shrink-0 mr-6'>
-        <img src='logo.png' alt='Logo' className='h-8' />
+        <img src={logo} alt='Logo' className='h-8' />
       </div>
       <div className='w-full block flex-grow lg:flex lg:items-center lg:w-auto justify-center'>
         <div className='text-md'>
