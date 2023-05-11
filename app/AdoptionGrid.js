@@ -1,5 +1,6 @@
 'use client'
 import Image from 'next/image'
+import { motion } from 'framer-motion'
 
 async function getData () {
   const res = await fetch('https://tdpomo.vercel.app/api/paesiadozioni')
@@ -17,10 +18,12 @@ const AdoptionGrid = async () => {
         </div>
         <div className='mt-16 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-4 lg:grid-cols-6 xl:gap-x-8'>
           {countries.map((country) => (
-            <div key={country.nome} className='group relative'>
+            <motion.div
+              key={country.nome} className='group relative' whileHover={{ scale: 1.1 }}
+            >
               <div className='aspect-w-3 aspect-h-2 rounded-lg overflow-hidden sm:aspect-w-4 sm:aspect-h-3'>
                 <Image
-                  className='group-hover:opacity-75 object-cover object-center'
+                  className='object-cover object-center'
                   src={`https://flagsapi.com/${country.flag}/flat/64.png`}
                   alt={country.nome}
                   width={64}
@@ -40,7 +43,7 @@ const AdoptionGrid = async () => {
                   </div>
                 </dl>
               </div>
-            </div>
+            </motion.div>
           ))}
         </div>
       </div>

@@ -1,6 +1,7 @@
 import AdoptionGrid from './AdoptionGrid'
 import HeroSection from './HeroSection'
 import Navbar from './Navbar'
+import SwiperGames from './SwiperGames'
 import SwiperPersone from './SwiperPersone'
 
 export default function Home () {
@@ -10,6 +11,7 @@ export default function Home () {
       <HeroSection />
       <AdoptionGrid />
       <SwiperPersone />
+      <SwiperGames />
     </>
   )
 }
