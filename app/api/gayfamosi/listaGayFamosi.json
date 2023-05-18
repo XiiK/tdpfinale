@@ -1,308 +1,308 @@
 {
     "personaggi": [
         {
-            "nome" : "Saara Aalto",
-            "dataNascita" : "02-05-1987",
-            "nazione" : "Finlandia",
-            "url" : "https://it.wikipedia.org/wiki/Saara_Aalto",
-            "img" : "https://it.wikipedia.org/wiki/File:Saara_Aalto_(2)_20180508_EuroVisionary_(cropped).jpg",
-            "categoria" : "Cantante"
+            "nome": "Saara Aalto",
+            "dataNascita": "02-05-1987",
+            "nazione": "Finlandia",
+            "url": "https://it.wikipedia.org/wiki/Saara_Aalto",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saara_Aalto_%282%29_20180508_EuroVisionary_%28cropped%29.jpg/455px-Saara_Aalto_%282%29_20180508_EuroVisionary_%28cropped%29.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Giordana Angi",
-            "dataNascita" : "12-01-1994",
-            "nazione" : "Italia",
-            "url" : "https://it.wikipedia.org/wiki/Giordana_Angi",
-            "img" : "https://it.wikipedia.org/wiki/File:GiordanaAngi.jpg",
-            "categoria" : "Cantante"
+            "nome": "Giordana Angi",
+            "dataNascita": "12-01-1994",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Giordana_Angi",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GiordanaAngi.jpg/535px-GiordanaAngi.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Jonathan Bailey",
-            "dataNascita" : "25-04-1988",
-            "nazione" : "Regno Unito",
-            "url" : "https://it.wikipedia.org/wiki/Jonathan_Bailey",
-            "img" : "https://it.wikipedia.org/wiki/File:Jonathan_Bailey_2015.jpg",
-            "categoria" : "Attore"
+            "nome": "Jonathan Bailey",
+            "dataNascita": "25-04-1988",
+            "nazione": "Regno Unito",
+            "url": "https://it.wikipedia.org/wiki/Jonathan_Bailey",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jonathan_Bailey_2015.jpg/403px-Jonathan_Bailey_2015.jpg",
+            "categoria": "Attore"
         },
         {
-            "nome" : "Dario Bellezza",
-            "dataNascita" : "05-09-1944",
-            "nazione" : "Italia",
-            "url" : "https://it.wikipedia.org/wiki/Dario_Bellezza",
-            "img" : "https://it.wikipedia.org/wiki/File:%C2%A7Bellezza,_Dario_(1944-1996)_mentre_legge_--Invettive_e_licenze--_Foto_di_Massimo_Consoli.jpg",
-            "categoria" : "Scrittore"
+            "nome": "Dario Bellezza",
+            "dataNascita": "05-09-1944",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Dario_Bellezza",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%C2%A7Bellezza%2C_Dario_%281944-1996%29_mentre_legge_--Invettive_e_licenze--_Foto_di_Massimo_Consoli.jpg",
+            "categoria": "Scrittore"
         },
         {
-            "nome" : "Vanessa Lee Carlton",
-            "dataNascita" : "16-08-1980",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Vanessa_Carlton",
-            "img" : "https://it.wikipedia.org/wiki/File:Vanessa_Carlton_promo_photo_(recoloured).jpg",
-            "categoria" : "Cantante"
+            "nome": "Vanessa Lee Carlton",
+            "dataNascita": "16-08-1980",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Vanessa_Carlton",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vanessa_Carlton_promo_photo_%28recoloured%29.jpg/542px-Vanessa_Carlton_promo_photo_%28recoloured%29.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Eduardo Casanova",
-            "dataNascita" : "24-03-1991",
-            "nazione" : "Spagna",
+            "nome": "Eduardo Casanova",
+            "dataNascita": "24-03-1991",
+            "nazione": "Spagna",
             "url": "https://it.wikipedia.org/wiki/Eduardo_Casanova",
-            "img" : "https://it.wikipedia.org/wiki/File:Premios_Goya_2018_-_Eduardo_Casanova.jpg",
-            "categoria" : "Attore"
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Premios_Goya_2018_-_Eduardo_Casanova.jpg/400px-Premios_Goya_2018_-_Eduardo_Casanova.jpg",
+            "categoria": "Attore"
         },
         {
-            "nome" : "Kelvin Coe",
-            "dataNascita" : "118-09-1946",
-            "nazione" : "Australia",
+            "nome": "Kelvin Coe",
+            "dataNascita": "118-09-1946",
+            "nazione": "Australia",
             "url": "https://it.wikipedia.org/wiki/Kelvin_Coe",
-            "img" : "https://www.google.com/url?sa=i&url=http%3A%2F%2Fmdmdance.squarespace.com%2Fkelvin-coe&psig=AOvVaw08iRaZrup01pn3JOYX_Hw4&ust=1683878594695000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKC82uHm7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Danzatore"
+            "img": "https://images.squarespace-cdn.com/content/v1/541b87dbe4b0423f1488c4c5/1581298705581-LC13IN1LS5HR6C7A42CF/Screen+Shot+2020-02-10+at+12.35.55.png",
+            "categoria": "Danzatore"
         },
         {
-            "nome" : "Tim Cook",
-            "dataNascita" : "01-11-1960",
-            "nazione" : "Stati Uniti",
+            "nome": "Tim Cook",
+            "dataNascita": "01-11-1960",
+            "nazione": "Stati Uniti",
             "url": "https://it.wikipedia.org/wiki/Tim_Cook",
-            "img" : "https://it.wikipedia.org/wiki/File:Tim_Cook_(2017,_cropped).jpg",
-            "categoria" : "Amministratore delegato"
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tim_Cook_%282017%2C_cropped%29.jpg/461px-Tim_Cook_%282017%2C_cropped%29.jpg",
+            "categoria": "Amministratore delegato"
         },
         {
-            "nome" : "Dennis Del Valle",
-            "dataNascita" : "27-01-1989",
-            "nazione" : "Portorico",
-            "url" : "https://it.wikipedia.org/wiki/Dennis_Del_Valle",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.outsports.com%2F2020%2F5%2F4%2F21245956%2Fpro-volleyball-player-dennis-del-valle-comes-out-gay&psig=AOvVaw2KT2MEw34Nt-fNob8s43fB&ust=1683878685670000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCTnY3n7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Pallavolista"
+            "nome": "Dennis Del Valle",
+            "dataNascita": "27-01-1989",
+            "nazione": "Portorico",
+            "url": "https://it.wikipedia.org/wiki/Dennis_Del_Valle",
+            "img": "https://cdn.vox-cdn.com/thumbor/e3szcfBYL_nAeIICcyD18jwzXdI=/0x0:2760x1840/920x613/filters:focal(1339x519:1779x959):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66747766/1009958236.jpg.0.jpg",
+            "categoria": "Pallavolista"
         },
         {
-            "nome" : "Bertrand Delanoe",
-            "dataNascita" : "30-05-1950",
-            "nazione" : "Francia",
-            "url" : "https://it.wikipedia.org/wiki/Bertrand_Delano%C3%AB",
-            "img" : "https://it.wikipedia.org/wiki/File:Bertrand_Delano%C3%AB_in_2010.jpg",
-            "categoria" : "Politico"
+            "nome": "Bertrand Delanoe",
+            "dataNascita": "30-05-1950",
+            "nazione": "Francia",
+            "url": "https://it.wikipedia.org/wiki/Bertrand_Delano%C3%AB",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bertrand_Delano%C3%AB_in_2010.jpg/398px-Bertrand_Delano%C3%AB_in_2010.jpg",
+            "categoria": "Politico"
         },
         {
-            "nome" : "Elena Delle Donne",
-            "dataNascita" : "05-09-1989",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Elena_Delle_Donne",
-            "img" : "https://it.wikipedia.org/wiki/File:20140814_Elena_Delle_Donne_2.jpg",
-            "categoria" : "Cestista"
+            "nome": "Elena Delle Donne",
+            "dataNascita": "05-09-1989",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Elena_Delle_Donne",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20140814_Elena_Delle_Donne_2.jpg/400px-20140814_Elena_Delle_Donne_2.jpg",
+            "categoria": "Cestista"
         },
         {
-            "nome" : "Lukas Dhont",
-            "dataNascita" : "14-05-1991",
-            "nazione" : "Belgio",
-            "url" : "https://it.wikipedia.org/wiki/Lukas_Dhont",
-            "img" : "https://it.wikipedia.org/wiki/File:Lukas_Dhont_(cropped).jpg",
-            "categoria" : "Regista"
+            "nome": "Lukas Dhont",
+            "dataNascita": "14-05-1991",
+            "nazione": "Belgio",
+            "url": "https://it.wikipedia.org/wiki/Lukas_Dhont",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lukas_Dhont_%28cropped%29.jpg/437px-Lukas_Dhont_%28cropped%29.jpg",
+            "categoria": "Regista"
         },
         {
-            "nome" : "Lisa Erba",
-            "dataNascita" : "07-09-1993",
-            "nazione" : "Italia",
-            "url" : "https://it.wikipedia.org/wiki/Lisa_Erba",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.juventusnews24.com%2Fboattin-rinnovo-juventus-women-contratto-2023-comunicato-ufficiale%2F&psig=AOvVaw07qDeqSYix_6Q1Cbs0d6W3&ust=1683878813670000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIil0Mnn7P4CFQAAAAAdAAAAABAH",
-            "categoria" : "Calciatrice"
+            "nome": "Lisa Erba",
+            "dataNascita": "07-09-1993",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Lisa_Erba",
+            "img": "https://www.juventusnews24.com/wp-content/uploads/2021/01/boattin-juventus-women.jpg",
+            "categoria": "Calciatrice"
         },
         {
-            "nome" : "Oscar Esquivias",
-            "dataNascita" : "28-06-1972",
-            "nazione" : "Spagna",
-            "url" : "https://it.wikipedia.org/wiki/%C3%93scar_Esquivias",
-            "img" : "https://it.wikipedia.org/wiki/File:%C3%93scar_esquivias_in_C%C3%B3rdoba_by_As%C3%ADs_G_Ayerbe.jpg",
-            "categoria" : "Scrittore"
+            "nome": "Oscar Esquivias",
+            "dataNascita": "28-06-1972",
+            "nazione": "Spagna",
+            "url": "https://it.wikipedia.org/wiki/%C3%93scar_Esquivias",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%C3%93scar_esquivias_in_C%C3%B3rdoba_by_As%C3%ADs_G_Ayerbe.jpg/709px-%C3%93scar_esquivias_in_C%C3%B3rdoba_by_As%C3%ADs_G_Ayerbe.jpg",
+            "categoria": "Scrittore"
         },
         {
-            "nome" : "Dominique Fernandez",
-            "dataNascita" : "25-08-1929",
-            "nazione" : "Francia",
-            "url" : "https://it.wikipedia.org/wiki/Dominique_Fernandez",
-            "img" : "https://it.wikipedia.org/wiki/File:Dominique_Fernandez-FIG_2009(2).jpg",
-            "categoria" : "Scrittore"
+            "nome": "Dominique Fernandez",
+            "dataNascita": "25-08-1929",
+            "nazione": "Francia",
+            "url": "https://it.wikipedia.org/wiki/Dominique_Fernandez",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dominique_Fernandez-FIG_2009%282%29.jpg/450px-Dominique_Fernandez-FIG_2009%282%29.jpg",
+            "categoria": "Scrittore"
         },
         {
-            "nome" : "Tiziano Ferro",
-            "dataNascita" : "21-02-1980",
-            "nazione" : "Italia",
-            "url" : "https://it.wikipedia.org/wiki/Tiziano_Ferro",
-            "img" : "https://it.wikipedia.org/wiki/File:Tiziano_Ferro_on_Radio_Bruno.jpg",
-            "categoria" : "Cantante"
+            "nome": "Tiziano Ferro",
+            "dataNascita": "21-02-1980",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Tiziano_Ferro",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tiziano_Ferro_on_Radio_Bruno.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Damon Galgut",
-            "dataNascita" : "12-11-1963",
-            "nazione" : "Sudafrica",
-            "url" : "https://it.wikipedia.org/wiki/Damon_Galgut",
-            "img" : "https://it.wikipedia.org/wiki/File:Damon_Galgut_(2013).png",
-            "categoria" : "Scrittore"
+            "nome": "Damon Galgut",
+            "dataNascita": "12-11-1963",
+            "nazione": "Sudafrica",
+            "url": "https://it.wikipedia.org/wiki/Damon_Galgut",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Damon_Galgut_%282013%29.png",
+            "categoria": "Scrittore"
         },
         {
-            "nome" : "Victor Garber",
-            "dataNascita" : "16-03-1949",
-            "nazione" : "Canada",
-            "url" : "https://it.wikipedia.org/wiki/Victor_Garber",
-            "img" : "https://it.wikipedia.org/wiki/File:Victor_Garber_2017.jpg",
-            "categoria" : "Attore"
+            "nome": "Victor Garber",
+            "dataNascita": "16-03-1949",
+            "nazione": "Canada",
+            "url": "https://it.wikipedia.org/wiki/Victor_Garber",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Victor_Garber_2017.jpg/392px-Victor_Garber_2017.jpg",
+            "categoria": "Attore"
         },
         {
-            "nome" : "Pernille Harder",
-            "dataNascita" : "15-11-1992",
-            "nazione" : "Danimarca",
-            "url" : "https://it.wikipedia.org/wiki/Pernille_Harder_(calciatrice)",
-            "img" : "https://it.wikipedia.org/wiki/File:20170706_OEFB_AUT-DEN_Pernille_Harder_DSC_8228.jpg",
-            "categoria" : "Calciatrice"
+            "nome": "Pernille Harder",
+            "dataNascita": "15-11-1992",
+            "nazione": "Danimarca",
+            "url": "https://it.wikipedia.org/wiki/Pernille_Harder_(calciatrice)",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20170706_OEFB_AUT-DEN_Pernille_Harder_DSC_8228.jpg/399px-20170706_OEFB_AUT-DEN_Pernille_Harder_DSC_8228.jpg",
+            "categoria": "Calciatrice"
         },
         {
-            "nome" : "Thomas Hitzlsperger",
-            "dataNascita" : "05-04-1982",
-            "nazione" : "Germania",
-            "url" : "https://it.wikipedia.org/wiki/Thomas_Hitzlsperger",
-            "img" : "https://it.wikipedia.org/wiki/File:Hart_aber_fair_-_2022-11-14-4140.jpg",
-            "categoria" : "Dirigente sportivo"
+            "nome": "Thomas Hitzlsperger",
+            "dataNascita": "05-04-1982",
+            "nazione": "Germania",
+            "url": "https://it.wikipedia.org/wiki/Thomas_Hitzlsperger",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hart_aber_fair_-_2022-11-14-4140.jpg/600px-Hart_aber_fair_-_2022-11-14-4140.jpg",
+            "categoria": "Dirigente sportivo"
         },
         {
-            "nome" : "Facundo Imhoff",
-            "dataNascita" : "25-01-1989",
-            "nazione" : "Argentina",
-            "url" : "https://it.wikipedia.org/wiki/Facundo_Imhoff",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ceroacero.es%2Fplayer.php%3Fid%3D603721&psig=AOvVaw1u-UBurVF4rXTONjgze8Ee&ust=1683879050771000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjnybro7P4CFQAAAAAdAAAAABAI",
-            "categoria" : "Pallavolista"
+            "nome": "Facundo Imhoff",
+            "dataNascita": "25-01-1989",
+            "nazione": "Argentina",
+            "url": "https://it.wikipedia.org/wiki/Facundo_Imhoff",
+            "img": "https://profiles.worldofvolley.com/upload/thumbnail/2015/10/23/474446/aa.jpg",
+            "categoria": "Pallavolista"
         },
         {
-            "nome" : "Daniela Iraschko",
-            "dataNascita" : "21-11-1983",
-            "nazione" : "Austria",
-            "url" : "https://it.wikipedia.org/wiki/Daniela_Iraschko",
-            "img" : "https://it.wikipedia.org/wiki/File:20150201_1348_Skispringen_Hinzenbach_8486.jpg",
-            "categoria" : "Saltatrice con sci"
+            "nome": "Daniela Iraschko",
+            "dataNascita": "21-11-1983",
+            "nazione": "Austria",
+            "url": "https://it.wikipedia.org/wiki/Daniela_Iraschko",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/20150201_1348_Skispringen_Hinzenbach_8486.jpg/399px-20150201_1348_Skispringen_Hinzenbach_8486.jpg",
+            "categoria": "Saltatrice con sci"
         },
         {
-            "nome" : "Yves Jacques",
-            "dataNascita" : "10-05-1956",
-            "nazione" : "Canada",
-            "url" : "https://it.wikipedia.org/wiki/Yves_Jacques",
-            "img" : "https://it.wikipedia.org/wiki/File:Yves_Jacques_par_Julie_Bouchard.jpg",
-            "categoria" : "Attore"
+            "nome": "Yves Jacques",
+            "dataNascita": "10-05-1956",
+            "nazione": "Canada",
+            "url": "https://it.wikipedia.org/wiki/Yves_Jacques",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yves_Jacques_par_Julie_Bouchard.jpg/400px-Yves_Jacques_par_Julie_Bouchard.jpg",
+            "categoria": "Attore"
         },
         {
-            "nome" : "Angelina Jolie",
-            "dataNascita" : "04-06-1975",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Angelina_Jolie",
-            "img" : "https://it.wikipedia.org/wiki/File:Under_Secretary_Zeya_Meets_With_UNHCR_Special_Envoy_Jolie_(51942861677)_(cropped).jpg",
-            "categoria" : "Attrice"
+            "nome": "Angelina Jolie",
+            "dataNascita": "04-06-1975",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Angelina_Jolie",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Under_Secretary_Zeya_Meets_With_UNHCR_Special_Envoy_Jolie_%2851942861677%29_%28cropped%29.jpg/414px-Under_Secretary_Zeya_Meets_With_UNHCR_Special_Envoy_Jolie_%2851942861677%29_%28cropped%29.jpg",
+            "categoria": "Attrice"
         },
         {
-            "nome" : "Dar'ja Kasatkina",
-            "dataNascita" : "07-05-1997",
-            "nazione" : "Russia",
-            "url" : "https://it.wikipedia.org/wiki/Dar%27ja_Kasatkina",
-            "img" : "https://it.wikipedia.org/wiki/File:Kasatkina_RG21_(14)_(51376890144).jpg",
-            "categoria" : "Tennista"
+            "nome": "Dar'ja Kasatkina",
+            "dataNascita": "07-05-1997",
+            "nazione": "Russia",
+            "url": "https://it.wikipedia.org/wiki/Dar%27ja_Kasatkina",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kasatkina_RG21_%2814%29_%2851376890144%29.jpg/399px-Kasatkina_RG21_%2814%29_%2851376890144%29.jpg",
+            "categoria": "Tennista"
         },
         {
-            "nome" : "Diana King",
-            "dataNascita" : "08-11-1970",
-            "nazione" : "Giamaica",
-            "url" : "https://it.wikipedia.org/wiki/Diana_King",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.birikina.it%2Fremebering%2Fdiana-king%2F&psig=AOvVaw2gClBorH5t1mZ-0bOIeRpl&ust=1683879143592000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDqzOXo7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Cantante"
+            "nome": "Diana King",
+            "dataNascita": "08-11-1970",
+            "nazione": "Giamaica",
+            "url": "https://it.wikipedia.org/wiki/Diana_King",
+            "img": "https://www.birikina.it/wp-content/uploads/2020/02/diana-king-buzz-demo-2-1024x768-1-768x576.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Dyanna Lauren",
-            "dataNascita" : "18-03-1965",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Dyanna_Lauren",
-            "img" : "https://it.wikipedia.org/wiki/File:Dyanna_Lauren_2009.jpg",
-            "categoria" : "Attrice"
+            "nome": "Dyanna Lauren",
+            "dataNascita": "18-03-1965",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Dyanna_Lauren",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dyanna_Lauren_2009.jpg/400px-Dyanna_Lauren_2009.jpg",
+            "categoria": "Attrice"
         },
         {
-            "nome" : "Mark Leduc",
-            "dataNascita" : "04-05-1961",
-            "nazione" : "Canada",
-            "url" : "https://it.wikipedia.org/wiki/Mark_Leduc",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebar.com%2Fstory.php%3F234649&psig=AOvVaw2yic4y4qtSGA4vepcuv54v&ust=1683879175191000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCzkvTo7P4CFQAAAAAdAAAAABAI",
-            "categoria" : "Pugile"
+            "nome": "Mark Leduc",
+            "dataNascita": "04-05-1961",
+            "nazione": "Canada",
+            "url": "https://it.wikipedia.org/wiki/Mark_Leduc",
+            "img": "https://www.ebar.com/display/viewimage_storyMain.php?applicationID=122&id=234649&maxwidth=700",
+            "categoria": "Pugile"
         },
         {
-            "nome" : "Lil Nas X",
-            "dataNascita" : "09-04-1999",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Lil_Nas_X",
-            "img" : "https://it.wikipedia.org/wiki/File:191125_Lil_Nas_X_at_the_2019_American_Music_Awards.png",
-            "categoria" : "Cantante"
+            "nome": "Lil Nas X",
+            "dataNascita": "09-04-1999",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Lil_Nas_X",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/191125_Lil_Nas_X_at_the_2019_American_Music_Awards.png/440px-191125_Lil_Nas_X_at_the_2019_American_Music_Awards.png",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Demi Lovato",
-            "dataNascita" : "20-08-1992",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Demi_Lovato",
-            "img" : "https://it.wikipedia.org/wiki/File:Demi_Lovato_8_(41898569045).jpg",
-            "categoria" : "Cantante"
+            "nome": "Demi Lovato",
+            "dataNascita": "20-08-1992",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Demi_Lovato",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Demi_Lovato_8_%2841898569045%29.jpg/450px-Demi_Lovato_8_%2841898569045%29.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Cristiano Malgioglio",
-            "dataNascita" : "23-04-1945",
-            "nazione" : "Italia",
-            "url" : "https://it.wikipedia.org/wiki/Cristiano_Malgioglio",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ilmessaggero.it%2Ftelevisione%2Fcristiano_malgioglio_amici_2023_giudice_tale_e_quale_maria_de_filippi-7305707.html&psig=AOvVaw1w8pd4AGYCyeDGdAnYbP9W&ust=1683879249552000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiswpjp7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Personaggio televisivo"
+            "nome": "Cristiano Malgioglio",
+            "dataNascita": "23-04-1945",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Cristiano_Malgioglio",
+            "img": "https://www.radiomargherita.com/wp-content/uploads/2016/04/CRISTIANO-MALGIOGLIO-e1459859077873.jpg",
+            "categoria": "Personaggio televisivo"
         },
         {
-            "nome" : "Ian Matos",
-            "dataNascita" : "24-04-1989",
-            "nazione" : "Brasile",
-            "url" : "https://it.wikipedia.org/wiki/Ian_Matos",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIan_Matos&psig=AOvVaw0upbWBLPEQzKRkwNnyWa1v&ust=1683879280375000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDprafp7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Tuffatore"
+            "nome": "Ian Matos",
+            "dataNascita": "24-04-1989",
+            "nazione": "Brasile",
+            "url": "https://it.wikipedia.org/wiki/Ian_Matos",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ian_Matos_%28cropped%29.jpg/220px-Ian_Matos_%28cropped%29.jpg",
+            "categoria": "Tuffatore"
         },
         {
-            "nome" : "Freddie Mercury",
-            "dataNascita" : "05-09-1946",
-            "nazione" : "Regno Unito",
-            "url" : "https://it.wikipedia.org/wiki/Freddie_Mercury",
-            "img" : "https://it.wikipedia.org/wiki/File:Freddie_Mercury_a_Sanremo_1986_(colori).png",
-            "categoria" : "Cantante"
+            "nome": "Freddie Mercury",
+            "dataNascita": "05-09-1946",
+            "nazione": "Regno Unito",
+            "url": "https://it.wikipedia.org/wiki/Freddie_Mercury",
+            "img": "https://upload.wikimedia.org/wikipedia/it/7/7e/Freddie_Mercury_a_Sanremo_1986_%28colori%29.png?20191017171404",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Qiao Qiao",
-            "dataNascita" : "11-07-1980",
-            "nazione" : "Cina",
-            "url" : "https://it.wikipedia.org/wiki/Qiao_Qiao",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmydramalist.com%2Fpeople%2F49899-qiao-qiao&psig=AOvVaw0G8F7-xh5ZfpS1Xaufb6eA&ust=1683879318235000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDO7rfp7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Cantante"
+            "nome": "Qiao Qiao",
+            "dataNascita": "11-07-1980",
+            "nazione": "Cina",
+            "url": "https://it.wikipedia.org/wiki/Qiao_Qiao",
+            "img": "https://i.mydramalist.com/Bn33l_5c.jpg",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Bella Thorne",
-            "dataNascita" : "08-10-1997",
-            "nazione" : "Stati Uniti",
-            "url" : "https://it.wikipedia.org/wiki/Bella_Thorne",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftg24.sky.it%2Fspettacolo%2F2019%2F10%2F07%2Fbella-thorne-foto-instagram&psig=AOvVaw3IipOgiZwQPdAV-Yim-qaR&ust=1683879343106000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDb28jp7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Attrice"
+            "nome": "Bella Thorne",
+            "dataNascita": "08-10-1997",
+            "nazione": "Stati Uniti",
+            "url": "https://it.wikipedia.org/wiki/Bella_Thorne",
+            "img": "https://static.sky.it/images_static/cinema/2019/10/07/Bella_Thorne.jpg.transform/hero-mobile-2x/e42700b58e6d02ed9a4b3a9af63d74c53ab20f14/img.jpeg",
+            "categoria": "Attrice"
         },
         {
-            "nome" : "Xiong Jingnan",
-            "dataNascita" : "12-01-1988",
-            "nazione" : "Cina",
-            "url" : "https://it.wikipedia.org/wiki/Xiong_Jingnan",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fevolve-mma.com%2Finstructors%2Fxiong-jing-nan%2F&psig=AOvVaw2sd-Cfc-7sWUNQLXSglKsj&ust=1683879383905000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjL59jp7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Lottatrice di arti maziali miste"
+            "nome": "Xiong Jingnan",
+            "dataNascita": "12-01-1988",
+            "nazione": "Cina",
+            "url": "https://it.wikipedia.org/wiki/Xiong_Jingnan",
+            "img": "https://cdn.onefc.com/wp-content/uploads/2017/12/Xiong_Jing_Nan-hero-1200x1165-1-600x583.jpg",
+            "categoria": "Lottatrice di arti maziali miste"
         },
         {
-            "nome" : "Renato Zero",
-            "dataNascita" : "30-09-1950",
-            "nazione" : "Italia",
-            "url" : "https://it.wikipedia.org/wiki/Renato_Zero",
-            "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ilgiornale.it%2Fnews%2Fspettacoli%2Frenato-zero-furto-new-york-non-volai-pi-allestero-1773314.html&psig=AOvVaw13v5rR8_m-OEMxsYJl-YTl&ust=1683879419301000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNizi-jp7P4CFQAAAAAdAAAAABAD",
-            "categoria" : "Cantante"
+            "nome": "Renato Zero",
+            "dataNascita": "30-09-1950",
+            "nazione": "Italia",
+            "url": "https://it.wikipedia.org/wiki/Renato_Zero",
+            "img": "https://img.ilgcdn.com/sites/default/files/styles/lg/public/foto/2019/09/10/1568125184-immagine-2019-09-10t151844.641.jpg?_=1568125184&format=webp",
+            "categoria": "Cantante"
         },
         {
-            "nome" : "Jake Zyrus",
-            "dataNascita" : "10-05-1992",
-            "nazione" : "Filippine",
-            "url" : "https://it.wikipedia.org/wiki/Jake_Zyrus",
-            "img" : "https://it.wikipedia.org/wiki/File:Charice_06-19-16.jpg",
-            "categoria" : "Cantante"
+            "nome": "Jake Zyrus",
+            "dataNascita": "10-05-1992",
+            "nazione": "Filippine",
+            "url": "https://it.wikipedia.org/wiki/Jake_Zyrus",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Charice_06-19-16.jpg/418px-Charice_06-19-16.jpg",
+            "categoria": "Cantante"
         }
     ]
 }
