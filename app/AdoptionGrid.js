@@ -13,8 +13,9 @@ const AdoptionGrid = async () => {
     <div className='bg-white'>
       <div className='max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8'>
         <div className='text-center'>
-          <h2 className='text-base font-semibold text-indigo-600 tracking-wide uppercase'>Adoption laws around the world</h2>
-          <p className='mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl'>Countries that allow same-sex couples to adopt</p>
+          <h2 className='text-base font-semibold text-indigo-600 tracking-wide uppercase'>LEGGI SULL'ADOZIONE NEL MONDO</h2>
+          <p className='mt-1 text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl'> Paesi che consentono l'adozione alle coppie omosessuali</p>
+          <p className='mt-5 mx-auto text-xl text-gray-500'>Numerosi paesi nel mondo hanno introdotto il diritto all'adozione per coppie omosessuali, a pari passo con l'introduzione del matrimonio tra persone Gay. Sono 11 su 28 i Paesi dell'Unione Europea.</p>
         </div>
         <div className='mt-16 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-4 lg:grid-cols-6 xl:gap-x-8'>
           {countries.map((country) => (
