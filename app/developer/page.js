@@ -51,10 +51,10 @@ export default function Developer () {
                     height={300}
                     className='object-cover my-4'
                   />
-                  <code className='text-blue-300'>GET https://tdpomo.vercel.app/api/gayfamosi/[flag]</code>
+                  <code className='text-blue-300'>GET https://tdpomo.vercel.app/api/paesiadozioni/[flag]</code>
                   <br />
                   <br />
-                  <code className='text-blue-300'>POST https://tdpomo.vercel.app/api/gayfamosi</code>
+                  <code className='text-blue-300'>POST https://tdpomo.vercel.app/api/paesiadozioni</code>
                   <p className='text-blue-100 ml-5 mt-2'>Inserire nel body il json dell'elemento che si vuole aggiungere</p>
                 </div>
               </div>

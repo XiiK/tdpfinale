@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 function HeroSection () {
   return (
-    <section className='flex items-center justify-center py-16 px-20 sm:px-6 lg:px-8 bg-slate-200'>
+    <section id='heroSection' className='flex items-center justify-center py-16 px-20 sm:px-6 lg:px-8 bg-slate-200'>
       <div className='max-w-3xl mx-auto lg:w-3/5'>
         <h1 className='text-4xl lg:text-6xl font-bold text-gray-800 leading-tight mb-8'>
           Sei uno sviluppatore?<br />Prova le nostre API

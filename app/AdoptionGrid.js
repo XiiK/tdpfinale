@@ -10,7 +10,7 @@ async function getData () {
 const AdoptionGrid = async () => {
   const countries = await getData()
   return (
-    <div className='bg-white'>
+    <div id='adoptionGrid' className='bg-white'>
       <div className='max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8'>
         <div className='text-center'>
           <h2 className='text-base font-semibold text-indigo-600 tracking-wide uppercase'>LEGGI SULL'ADOZIONE NEL MONDO</h2>

@@ -8,7 +8,7 @@ import SwiperPersone from './SwiperPersone'
 export default function Home () {
   return (
     <>
-      {/* <Navbar /> */}
+      <Navbar />
       <HeroSection />
       <AdoptionGrid />
       <SwiperPersone />
